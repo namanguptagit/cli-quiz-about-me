@@ -28,7 +28,13 @@ var questions=[
 {
   question:"when is my birthday ",
   answer:"3january",
-
+},
+{
+  question:"what is my fav. color",
+  answer:"black",
+},{
+  question:"who is my fav. football player",
+  answer:"christiano ronaldo",
 }
 ];
 for(var i=0;i<questions.length;i++)
